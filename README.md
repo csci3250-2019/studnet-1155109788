@@ -32,3 +32,6 @@
 * Distributed Systems, Networks & Security
 
 ## Image 
+![screenshot1](https://github.com/csci3250-2019/studnet-1155109788/blob/master/screenshot1.png)
+![screenshot2](https://github.com/csci3250-2019/studnet-1155109788/blob/master/screenshot2.png)
+![screenshot3](https://github.com/csci3250-2019/studnet-1155109788/blob/master/screenshot3.png)
