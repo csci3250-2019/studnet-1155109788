@@ -31,5 +31,4 @@
 * Database & Information Systems
 * Distributed Systems, Networks & Security
 
-## Image 
-![](https://github.com/csci3250-2019/student-1155109788/blob/master/screenshot1.png)
+## Image
